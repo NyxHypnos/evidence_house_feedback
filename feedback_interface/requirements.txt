@@ -1,0 +1,4 @@
+langchain
+Openai
+Streamlit
+pandas
